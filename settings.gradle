@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "弘亿"
+rootProject.name = "hybirdApp"
